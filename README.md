@@ -1,7 +1,7 @@
 Welcome to my new dbt project!
 
 ### Description
-This project uses dbt in Snowflake RDBMS to draw insights from customer ordersd on the jaffle shop.
+This project uses dbt in Snowflake RDBMS to draw insights from customer orders on the jaffle shop.
 
 ### Using the starter project
 
